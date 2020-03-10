@@ -62,3 +62,6 @@ puts e << "World"
 
 m = "I love Ruby"
 puts m[0] + m[7]
+puts m[0 + 7]
+
+puts ['ruby']
